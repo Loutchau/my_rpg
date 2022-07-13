@@ -7,7 +7,7 @@ Make a real and fonctional RPG game in C and CSFML library
 ## Install
 
 ```sh
-git clone https://github.com/EpitechPromo2026/B-MUL-200-MLH-2-1-myrpg-martin.d-herouville.git
+git clone git@github.com:Loutchau/my_rpg.git
 ```
 
 ## Usage
