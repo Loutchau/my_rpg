@@ -13,8 +13,15 @@ git clone git@github.com:Loutchau/my_rpg.git
 ## Usage
 
 ```sh
-./launch_game.sh
+make
 ```
+
+After the loading enter : 
+
+```sh
+./my_rpg
+```
+
 ***
 ## Author
 
